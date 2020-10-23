@@ -1,0 +1,5 @@
+/stripe-frontend/.env
+/stripe-backend/.env
+/stripe-frontend/node_modules
+/stripe-backend/node_modules
+
